@@ -38,14 +38,6 @@
 
 Ensure to export using the following color presets.
 
-## Edit
-
-Utilize the color presets according to the following grid for editing purposes.
-
-## Save
-
-Always save your design using the BARK System Design Guide.
-
 ## Color Definitions
 
 - **50**: #F5F5F6
@@ -59,3 +51,5 @@ Always save your design using the BARK System Design Guide.
 - **800**: #434347
 - **900**: #3B3B3E
 - **950**: #0F0F10
+
+## Figma Designs
