@@ -22,6 +22,8 @@ This repository contains the design system for the BARK DApps and Platform, incl
 
 ### BARK DApps and Platform Color Preset
 
+Turquoise used charity use cases
+
 | Preset  | Hex     | Color       |
 |---------|---------|-------------|
 | Primary | #4B5BFF | ![#4B5BFF](https://via.placeholder.com/20/4B5BFF?text=+) | 
